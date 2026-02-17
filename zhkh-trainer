@@ -1,0 +1,9 @@
+zhkh-trainer/
+│
+├── app.py
+├── requirements.txt
+├── .env
+├── templates/
+│     └── index.html
+└── static/
+      └── style.css
